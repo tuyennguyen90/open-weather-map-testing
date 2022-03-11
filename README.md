@@ -1,10 +1,14 @@
 # open-weather-map-testing
 
 # API testing plan
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[API testing plan](https://github.com/tuyennguyen90/open-weather-map-testing/blob/main/api-testing/api-testing-readme.md)
 
 # Testing strategy
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Testing plan general](https://github.com/tuyennguyen90/open-weather-map-testing/blob/main/test-strategy/test-plan.md)
 
 # Functionnal test cases
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+* [Functional testing](https://github.com/tuyennguyen90/open-weather-map-testing/blob/main/manual-test-cases/function-testing.md)
+
+* [UI testing](https://github.com/tuyennguyen90/open-weather-map-testing/blob/main/manual-test-cases/ui-testing.md)
+
+* [Non functional testing](https://github.com/tuyennguyen90/open-weather-map-testing/blob/main/manual-test-cases/non-function-testing.md)
